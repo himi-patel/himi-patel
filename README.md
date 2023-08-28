@@ -12,12 +12,14 @@
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Frontend web development<br>🎯 Goals: Full-stack Developer</p>
 
+
+###
+
 <div align="center">
 href="www.linkedin.com/in/himi-patel-026481260" target=" blank"')
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=whiteslabelColor=&sty
 </ a>
 </div>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
