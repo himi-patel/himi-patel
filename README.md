@@ -48,5 +48,4 @@
 
 
 ###
-(https://holopin.me/himipatel)](https://holopin.io/@himipatel)
 
