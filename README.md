@@ -46,24 +46,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<div align="left">
+<h2 align="left">
 
-### ✍️ Random Dev Quote
-
-###
+ ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-</div>
+</h2>
 
-<div align="left">
-### 🔝 Top Contributed Repo
-
-  ###
+<h2 align="left">
+  
+ 🔝 Top Contributed Repo
   
 ![](https://github-contributor-stats.vercel.app/api?username=himi-patel&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
-</div>
+</h2>
+
+  ###
 
 <div align="left">
   
