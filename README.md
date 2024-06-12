@@ -64,13 +64,11 @@
   
 ![](https://github-contributor-stats.vercel.app/api?username=himi-patel&limit=5&theme=react&combine_all_yearly_contributions=true)
 
----
 </h2>
 
 
 <div align="left">
-  
-  ###
+
   
 [![](https://visitcount.itsvg.in/api?id=himi-patel&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
