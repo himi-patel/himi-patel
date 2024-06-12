@@ -50,8 +50,11 @@
 
  ✍️ Random Dev Quote
 
+ ###
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 </h2>
+
 
 <h2 align="left">
   
@@ -62,7 +65,6 @@
 ---
 </h2>
 
-  ###
 
 <div align="left">
   
