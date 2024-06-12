@@ -57,10 +57,18 @@
 
 <div align="left">
 ### 🔝 Top Contributed Repo
+
+  ###
+  
 ![](https://github-contributor-stats.vercel.app/api?username=himi-patel&limit=5&theme=react&combine_all_yearly_contributions=true)
-</div>
+
 ---
+</div>
+
 <div align="left">
+  
+  ###
+  
 [![](https://visitcount.itsvg.in/api?id=himi-patel&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
