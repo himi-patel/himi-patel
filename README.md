@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-💫 Frontend Developer | ️ Building & Learning<br><br>🔥I'm passionate about crafting user-friendly and visually appealing web interfaces. Currently, I'm honing my skills in JavaScript frameworks like React to elevate my frontend development expertise.<br><br>🍀 I'm actively seeking opportunities to collaborate on open-source projects and contribute to the developer community. Feel free to reach out and discuss any programming challenges!
+💫 About Me:<br>💻 Python Web Developer | Building & Learning<br><br>🔥 Passionate about developing user-friendly and efficient web applications. Currently exploring Python frameworks like Flask and Django to enhance my skills.<br><br>🍀 Open to collaborations on open-source projects. Let’s connect and code together!
 
 
 ## 🌐 Socials:
@@ -19,6 +19,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
