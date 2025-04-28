@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-💫 About Me:<br>💻 Python Web Developer | Building & Learning<br><br>🔥 Passionate about developing user-friendly and efficient web applications. Currently exploring Python frameworks like Flask and Django to enhance my skills.<br><br>🍀 Open to collaborations on open-source projects. Let’s connect and code together!
+💫 About Me:<br>💻 Python Web Developer | Building & Learning<br><br>🔥 Passionate about developing user-friendly and efficient web applications. Currently exploring Python frameworks like Flask  to enhance my skills.<br><br>🍀 Open to collaborations on open-source projects. Let’s connect and code together!
 
 
 ## 🌐 Socials:
